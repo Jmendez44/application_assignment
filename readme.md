@@ -1,3 +1,8 @@
+# How to Run
+
+"npm start" in the terminal will run the app
+
+
 # Assignment
 
 ## Objectives
